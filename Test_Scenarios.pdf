@@ -1,0 +1,20 @@
+TEST SCENARIOS
+
+Scenario 1:
+You want to book tickets for a movie releasing this weekend.
+
+Tasks:
+
+* Search for the movie
+* Select a theatre
+* Choose two seats
+* Complete payment
+
+Scenario 2:
+You want to verify your booking.
+
+Tasks:
+
+* Locate booking history
+* Open booking details
+* Check seat and timing information
