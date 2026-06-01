@@ -1,0 +1,31 @@
+USABILITY TEST PLAN
+
+Project: MovieGo Mobile App
+
+Objective:
+Evaluate the usability of the MovieGo movie ticket booking application.
+
+Participants:
+5 users
+
+Test Environment:
+Mobile prototype developed in Figma
+
+Metrics:
+
+* Task completion rate
+* Time taken per task
+* Number of user errors
+* User satisfaction score
+
+Tasks:
+
+1. Login/Register
+2. Search for a movie
+3. Select theatre
+4. Choose seats
+5. Make payment
+6. View booking confirmation
+
+Expected Outcome:
+Identify usability issues and opportunities for design improvement.
